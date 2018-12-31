@@ -1,6 +1,6 @@
 // Backend code to server for Alexa skill
 // Skill name: Read_DHT
-// By- Vishal C. Poddar
+
 
 const express = require('express'),
     https = require('https'),
